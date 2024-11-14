@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mihircodess
 - 👀 I’m interested in Programming, singing and playing football
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Data Structures and Algorithms using C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me out through email- mihirdave2007@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---

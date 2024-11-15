@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mihircodess
+- 👋 Hi, I’m Mihir Dave
 - 👀 I’m interested in Programming, singing and playing football
 - 🌱 I’m currently learning Data Structures and Algorithms using C++
 - 💞️ I’m looking to collaborate on ...

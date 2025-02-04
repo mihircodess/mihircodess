@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mihir Dave
-- 👀 I’m interested in Programming, learning various trends and technologies in the tech industry.
+- 👀 I’m interested in learning programming languages as well as new tech stacks. 
 - 🌱 I’m currently learning Data Structures and Algorithms using C++
-- 📫 How to reach me out through email- mihirdave2007@gmail.com
+- 📫 Reach me out through email- mihirdave2007@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
